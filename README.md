@@ -37,4 +37,6 @@ Make sure each LED has a resistor and connects to GND on the other side
 2. Plug your LEDs into the right pins
 3. Upload the sketch to your Arduino board and watch
 
+## This is how my setup looks:
+(LED_Setup.png)
 
